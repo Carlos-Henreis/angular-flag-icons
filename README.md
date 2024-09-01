@@ -25,3 +25,28 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+# Angular Flags Incons
+
+## Source of SVG Flags
+
+The SVG flags included in this package are sourced from [Wikipedia](https://en.wikipedia.org/wiki/Gallery_of_sovereign_state_flags). Wikipedia hosts a comprehensive collection of country flags in SVG format, which are created and maintained by the Wikipedia community.
+
+### Licensing Information
+
+The SVG files used in this package are released under the [Creative Commons Attribution-Share Alike 3.0 Unported license (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/). This means that you are free to:
+
+- **Share**: Copy and redistribute the material in any medium or format.
+- **Adapt**: Remix, transform, and build upon the material for any purpose, even commercially.
+
+**Conditions**:
+- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+### Why This Matters
+
+By using flags from Wikipedia, this package ensures that all flag icons are accurate, up-to-date, and freely available under a license that supports both personal and commercial use. This provides users with confidence that they can use these icons in their Angular Material projects without any licensing issues.
+
+---
+
+This section clarifies the source and licensing of the SVG flags, reassuring users that they can use the icons without legal concerns.
