@@ -4,8 +4,8 @@
   "compileOnSave": false,
   "compilerOptions": {
     "paths": {
-      "country-flags": [
-        "./dist/country-flags"
+      "angular-material-icon-flags": [
+        "./dist/angular-material-icon-flags"
       ]
     },
     "outDir": "./dist/out-tsc",

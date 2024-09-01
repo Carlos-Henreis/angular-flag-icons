@@ -1,16 +1,16 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-country-flags',
+  selector: 'lib-angular-material-icon-flags',
   standalone: true,
   imports: [],
   template: `
     <p>
-      country-flags works!
+      angular-material-icon-flags works!
     </p>
   `,
   styles: ``
 })
-export class CountryFlagsComponent {
+export class AngularMaterialIconFlagsComponent {
 
 }
